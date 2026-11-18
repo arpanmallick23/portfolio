@@ -1,4 +1,4 @@
-# Arpan Mallick – Premium Developer Portfolio
+# Arpan Mallick – Developer Portfolio
 
 A modern, high-performance personal developer portfolio built for **Arpan Mallick** targeting Software Development Engineer (SDE) internships and full-stack developer roles.
 
