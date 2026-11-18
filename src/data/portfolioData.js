@@ -8,7 +8,7 @@ export const PERSONAL_INFO = {
   linkedin: "https://www.linkedin.com/in/arpan-mallick",
   leetcode: "https://leetcode.com/u/lVQGpQBMRE/",
   resumePath: "/Arpan-Mallick-Resume.pdf",
-  aboutText: "I am a final year Computer Science and Engineering student passionate about software development, full-stack engineering, and problem-solving. I enjoy building practical applications, exploring new technologies, and developing solutions that solve real-world challenges.",
+  aboutText: "I am a Computer Science and Engineering student passionate about software development, full-stack engineering, and problem-solving. I enjoy building practical applications, exploring new technologies, and developing solutions that solve real-world challenges.",
   education: {
     degree: "B.Tech in Computer Science & Engineering",
     institution: "Future Institute of Engineering & Management",
@@ -65,37 +65,15 @@ export const EXPERIENCES = [
   }
 ];
 
-export const PROJECTS = [
-  {
-    id: "mygpt",
-    title: "MyGPT – Personalized Full-Stack AI Workspace",
-    type: "Personal Project",
-    isInternship: false,
-    description: "Developed a full-stack AI workspace integrating Google's Gemini API with multi-persona orchestration and resilient API handling.",
-    bullets: [
-      "Integrated Google's Gemini API with support for six built-in AI assistants and custom user-defined personas.",
-      "Implemented JWT authentication, protected REST APIs, and persistent conversation history.",
-      "Integrated voice transcription and resilient API handling with retry and fallback mechanisms."
-    ],
-    technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Google Gemini API", "REST APIs"],
-    githubUrl: "https://github.com/arpanmallick23",
-    liveUrl: null
-  },
-  {
-    id: "wanderlust",
-    title: "WanderLust – Full-Stack Travel Listing & Booking",
-    type: "Personal Project",
-    isInternship: false,
-    description: "Built a full-stack travel listing platform inspired by Airbnb using MVC architecture with booking, authentication, and media uploads.",
-    bullets: [
-      "Built using MVC architecture with complete booking workflows, date & guest validation, and GST calculations.",
-      "Added secure user authentication, authorization checks, protected routes, and robust server-side validation.",
-      "Integrated cloud image uploads using Cloudinary and Multer along with booking history & cancellation."
-    ],
-    technologies: ["Node.js", "Express.js", "MongoDB Atlas", "EJS", "Bootstrap", "Passport.js", "Cloudinary", "Multer", "Mongoose"],
-    githubUrl: "https://github.com/arpanmallick23",
-    liveUrl: null
-  },
+// Curated priority order for Featured Projects
+export const FEATURED_PROJECT_NAMES = [
+  'mygpt',
+  'wanderlust',
+  'campustrack'
+];
+
+// Internship & Company Projects showcase (kept strictly separate from personal public GitHub repos)
+export const INTERNSHIP_PROJECTS = [
   {
     id: "foodyply",
     title: "Foodyply – Restaurant ERP System",
