@@ -1,75 +1,82 @@
-# Arpan Mallick | Full-Stack Developer
+# Arpan Mallick
 
-\<p align="center">   \<strong>Building modern web applications with clean code and thoughtful user experiences.\</strong> \</p>
+### Full-Stack Developer | Final-Year B.Tech CSE Student
 
-\<p align="center">   \<a href="[https://github.com/arpanmallick23](https://github.com/arpanmallick23)">GitHub\</a> •   \<a href="[https://www.linkedin.com/in/arpan-mallick](https://www.linkedin.com/in/arpan-mallick)">LinkedIn\</a> •   \<a href="mailto\:arpan.mallick.fiem23\@gmail.com">Email\</a> \</p>
+Building modern, responsive web applications and practical software solutions.
+
+<p align="center">
+
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_VERCEL_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-arpanmallick23-181717?style=for-the-badge&logo=github)](https://github.com/arpanmallick23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpan-mallick)
+
+</p>
 
 ---
 
-## About
+## About Me
 
-Welcome to my personal developer portfolio!
+I'm **Arpan Mallick**, a final-year Computer Science and Engineering student passionate about full-stack development, problem-solving, and building user-focused applications.
 
-I'm **Arpan Mallick**, a final-year B.Tech Computer Science and Engineering student passionate about full-stack development, problem-solving, and building practical software solutions.
+I enjoy working across the frontend and backend, designing REST APIs, managing databases, and turning ideas into functional software.
 
-This portfolio showcases my technical skills, professional experience, personal projects, and academic achievements.
+This portfolio brings together my technical skills, internship experience, personal projects, and academic achievements.
 
 ## Tech Stack
 
-| Category   | Technologies                        |
-| ---------- | ----------------------------------- |
-| Frontend   | React.js, HTML5, CSS3, Tailwind CSS |
-| Backend    | Node.js, Express.js, NestJS         |
-| Database   | MongoDB, PostgreSQL, MySQL          |
-| Languages  | Java, JavaScript, TypeScript        |
-| Tools      | Git, GitHub, VS Code                |
-| Animations | Framer Motion                       |
-| Icons      | Lucide React                        |
-| Build Tool | Vite                                |
+**Languages**
 
-## Portfolio Highlights
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- **Modern UI:** Minimalist dark theme with violet accents.
-- **Responsive Design:** Optimized for desktop, tablet, and mobile.
-- **Smooth Animations:** Interactive transitions powered by Framer Motion.
-- **Projects Showcase:** Highlights personal projects and professional contributions.
-- **Experience Timeline:** Presents internship experience and technical contributions.
-- **Coding Profiles:** Direct links to GitHub and LeetCode.
-- **Resume Access:** Downloadable PDF resume.
-- **Contact Section:** Quick access to email and professional profiles.
+**Frontend Development**
 
-## Project Structure
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-```text
-portfolio/
-├── public/
-│   └── Arpan-Mallick-Resume.pdf
-├── src/
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── Achievements.jsx
-│   │   ├── CodingProfiles.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Experience.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Projects.jsx
-│   │   └── Skills.jsx
-│   ├── data/
-│   │   └── portfolioData.js
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── package.json
-├── tailwind.config.js
-└── vite.config.js
-```
+**Backend Development**
 
-## Getting Started
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-Follow these steps to run the project locally.
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Featured Work
+
+### Professional Experience
+
+**Software Development Intern — Beas Consultancy and Services Private Limited**
+
+- Contributed to full-stack development of enterprise applications.
+- Worked with React, NestJS, TypeScript, PostgreSQL, and Prisma.
+- Contributed to inventory management, production planning, and voting workflows.
+
+### Personal Projects
+
+- **MyGPT:** Personalized AI workspace with multiple AI assistants and custom personas.
+- **WanderLust:** Full-stack travel listing and booking platform with authentication and booking management.
+
+## Portfolio Features
+
+- Modern dark-themed interface with violet accents.
+- Responsive layouts for desktop, tablet, and mobile.
+- Smooth animations using Framer Motion.
+- Dedicated sections for skills, experience, projects, and achievements.
+- GitHub and LeetCode profile links.
+- Downloadable resume.
+- Direct contact links.
+
+## Run Locally
 
 **1. Clone the repository**
 
@@ -77,7 +84,7 @@ Follow these steps to run the project locally.
 git clone https://github.com/arpanmallick23/portfolio.git
 ```
 
-**2. Navigate to the project directory**
+**2. Navigate to the project**
 
 ```bash
 cd portfolio
@@ -95,29 +102,25 @@ npm install
 npm run dev
 ```
 
-**5. Build for production**
+**5. Create a production build**
 
 ```bash
 npm run build
 ```
 
-**6. Preview the production build**
-
-```bash
-npm run preview
-```
-
 ## Connect With Me
 
-I'm always interested in connecting with developers, collaborating on projects, and exploring software development opportunities.
+I'm open to connecting with developers, collaborating on interesting projects, and exploring software development opportunities.
 
-- **GitHub:** [arpanmallick23](https://github.com/arpanmallick23)
-- **LinkedIn:** [Arpan Mallick](https://www.linkedin.com/in/arpan-mallick)
-- **LeetCode:** [View Profile](https://leetcode.com/u/lVQGpQBMRE/)
-- **Email:** [arpan.mallick.fiem23@gmail.com](mailto\:arpan.mallick.fiem23@gmail.com)
+| Platform | Link |
+|---|---|
+| GitHub | [arpanmallick23](https://github.com/arpanmallick23) |
+| LinkedIn | [Arpan Mallick](https://www.linkedin.com/in/arpan-mallick) |
+| LeetCode | [View Profile](https://leetcode.com/u/lVQGpQBMRE/) |
+| Email | [Contact Me](mailto:arpan.mallick.fiem23@gmail.com) |
 
 ---
 
-\<p align="center">
-&#x20; Designed and developed by \<strong>Arpan Mallick\</strong>
-\</p>
+<p align="center">
+  <strong>Designed & Developed by Arpan Mallick</strong>
+</p>
