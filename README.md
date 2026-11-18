@@ -2,20 +2,17 @@
 
 # Arpan Mallick — Portfolio
 
-**Full Stack MERN Developer · Final Year Engineering Student · DSA Enthusiast**
+**Full-Stack Developer & Aspiring SDE · CSE Student · MERN · DSA**
+
+### [View the live site →](https://arpan-portfolio-mu.vercel.app)
 
 *I build scalable, user-focused web apps — from pixel-perfect UIs to secure, cloud-deployed backends.*
 
-[![Live Site](https://img.shields.io/badge/Live-Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
+[![Live Site](https://img.shields.io/badge/Live-Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://arpan-portfolio-mu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-mallick-5b3355322)
 [![GitHub](https://img.shields.io/badge/GitHub-arpanmallick23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpanmallick23)
 
-![Repo Stars](https://img.shields.io/github/stars/arpanmallick23/portfolio?style=flat-square&color=yellow)
-![Last Commit](https://img.shields.io/github/last-commit/arpanmallick23/portfolio?style=flat-square)
-![License](https://img.shields.io/github/license/arpanmallick23/portfolio?style=flat-square)
 
-<!-- Replace with a real screenshot or GIF: save it as assets/preview.png -->
-<img src="assets/preview.png" alt="Portfolio preview" width="85%" />
 
 </div>
 
@@ -39,7 +36,7 @@
 
 This is the source code of my personal portfolio — a single place to showcase who I am, what I've built, and how I think as an engineer.
 
-I'm a final-year engineering student focused on **full-stack web development with the MERN stack** and **data structures & algorithms**. I enjoy taking an idea from a blank editor to a deployed product: designing the UI, modelling the data, securing the API, and shipping it.
+I'm a final-year Computer Science and Engineering student and aspiring Software Development Engineer, focused on **full-stack web development with the MERN stack** and **data structures & algorithms**. I enjoy taking an idea from a blank editor to a deployed product: designing the UI, modelling the data, securing the API, and shipping it.
 
 ## Features
 
@@ -128,7 +125,9 @@ portfolio/
 
 ## Deployment
 
-The site can be deployed for free on any static host:
+The live site runs on **Vercel** at [arpan-portfolio-mu.vercel.app](https://arpan-portfolio-mu.vercel.app), and every push to `main` redeploys it automatically.
+
+To host your own copy, any static host works:
 
 - **Vercel** — import the repo and deploy; settings are detected automatically
 - **Netlify** — build command `npm run build`, publish directory `dist` (or `build`)
