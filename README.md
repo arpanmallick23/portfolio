@@ -1,41 +1,65 @@
-# Arpan Mallick – Developer Portfolio
+# Arpan Mallick | Full-Stack Developer
 
-A modern, high-performance personal developer portfolio built for **Arpan Mallick** targeting Software Development Engineer (SDE) internships and full-stack developer roles.
+\<p align="center">   \<strong>Building modern web applications with clean code and thoughtful user experiences.\</strong> \</p>
 
----
-
-## 🚀 Tech Stack
-
-- **Framework**: [React.js](https://react.dev/) + [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) (Custom charcoal theme `#09090B` & violet accents)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Typography**: Inter & JetBrains Mono
+\<p align="center">   \<a href="[https://github.com/arpanmallick23](https://github.com/arpanmallick23)">GitHub\</a> •   \<a href="[https://www.linkedin.com/in/arpan-mallick](https://www.linkedin.com/in/arpan-mallick)">LinkedIn\</a> •   \<a href="mailto\:arpan.mallick.fiem23\@gmail.com">Email\</a> \</p>
 
 ---
 
-## 📁 Project Architecture
+## About
 
-```
+Welcome to my personal developer portfolio!
+
+I'm **Arpan Mallick**, a final-year B.Tech Computer Science and Engineering student passionate about full-stack development, problem-solving, and building practical software solutions.
+
+This portfolio showcases my technical skills, professional experience, personal projects, and academic achievements.
+
+## Tech Stack
+
+| Category   | Technologies                        |
+| ---------- | ----------------------------------- |
+| Frontend   | React.js, HTML5, CSS3, Tailwind CSS |
+| Backend    | Node.js, Express.js, NestJS         |
+| Database   | MongoDB, PostgreSQL, MySQL          |
+| Languages  | Java, JavaScript, TypeScript        |
+| Tools      | Git, GitHub, VS Code                |
+| Animations | Framer Motion                       |
+| Icons      | Lucide React                        |
+| Build Tool | Vite                                |
+
+## Portfolio Highlights
+
+- **Modern UI:** Minimalist dark theme with violet accents.
+- **Responsive Design:** Optimized for desktop, tablet, and mobile.
+- **Smooth Animations:** Interactive transitions powered by Framer Motion.
+- **Projects Showcase:** Highlights personal projects and professional contributions.
+- **Experience Timeline:** Presents internship experience and technical contributions.
+- **Coding Profiles:** Direct links to GitHub and LeetCode.
+- **Resume Access:** Downloadable PDF resume.
+- **Contact Section:** Quick access to email and professional profiles.
+
+## Project Structure
+
+```text
 portfolio/
 ├── public/
-│   └── Arpan-Mallick-Resume.pdf    # Direct downloadable resume PDF
+│   └── Arpan-Mallick-Resume.pdf
 ├── src/
-│   ├── assets/
 │   ├── components/
-│   │   ├── Navbar.jsx              # Responsive navigation with mobile menu
-│   │   ├── Hero.jsx                # Introduction, CTAs & code terminal visual
-│   │   ├── About.jsx               # Narrative, B.Tech CSE details & CGPA card
-│   │   ├── Skills.jsx              # Categorized tech skills grid
-│   │   ├── Experience.jsx          # Professional timeline (Beas Consultancy)
-│   │   ├── Projects.jsx            # Filterable projects (Personal & Company work)
-│   │   ├── Achievements.jsx        # Academic and competition distinctions
-│   │   ├── Contact.jsx             # Contact details, quick-copy & message form
-│   │   └── Footer.jsx              # Footer with socials and back-to-top
+│   │   ├── About.jsx
+│   │   ├── Achievements.jsx
+│   │   ├── CodingProfiles.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Skills.jsx
 │   ├── data/
-│   │   └── portfolioData.js        # Single source of truth for portfolio data
+│   │   └── portfolioData.js
 │   ├── App.jsx
-│   ├── index.css                   # Custom scrollbars, glassmorphism & gradients
+│   ├── index.css
 │   └── main.jsx
 ├── index.html
 ├── package.json
@@ -43,26 +67,57 @@ portfolio/
 └── vite.config.js
 ```
 
+## Getting Started
+
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/arpanmallick23/portfolio.git
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd portfolio
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+**5. Build for production**
+
+```bash
+npm run build
+```
+
+**6. Preview the production build**
+
+```bash
+npm run preview
+```
+
+## Connect With Me
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring software development opportunities.
+
+- **GitHub:** [arpanmallick23](https://github.com/arpanmallick23)
+- **LinkedIn:** [Arpan Mallick](https://www.linkedin.com/in/arpan-mallick)
+- **LeetCode:** [View Profile](https://leetcode.com/u/lVQGpQBMRE/)
+- **Email:** [arpan.mallick.fiem23@gmail.com](mailto\:arpan.mallick.fiem23@gmail.com)
+
 ---
 
-## 🛠️ How to Run Locally
-
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-2. **Start development server:**
-   ```bash
-   npm run dev
-   ```
-
-3. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
-4. **Preview production build:**
-   ```bash
-   npm run preview
-   ```
+\<p align="center">
+&#x20; Designed and developed by \<strong>Arpan Mallick\</strong>
+\</p>
