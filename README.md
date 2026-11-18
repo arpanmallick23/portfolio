@@ -150,7 +150,7 @@ I'm actively looking for **internship and entry-level full-stack opportunities**
 
 - **LinkedIn:** [arpan-mallick](https://www.linkedin.com/in/arpan-mallick-5b3355322)
 - **GitHub:** [@arpanmallick23](https://github.com/arpanmallick23)
-- **Email:** your.email@example.com
+- **Email:** arpan.23mallick@gmail.com
 
 ---
 
@@ -158,6 +158,6 @@ I'm actively looking for **internship and entry-level full-stack opportunities**
 
 If you like this portfolio, a star would mean a lot.
 
-Built by [Arpan Mallick](https://github.com/arpanmallick23)
+Built by Arpan Mallick ❤️
 
 </div>
